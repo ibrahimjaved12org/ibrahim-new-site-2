@@ -1,0 +1,21 @@
+leftnav:
+- identifier: d09a0f76-2c13-40b8-8179-f519608dbea0
+  name: Menu 1
+  pageRef: /video_galleries/video-galllery1
+  weight: 10
+- identifier: d4e5275e-24a7-417a-8071-83f11c4a5e60
+  name: Menu 2
+  pageRef: /video_galleries/video-gallery2
+  weight: 20
+- identifier: 664336bd-0d3a-4370-9d29-513838e02e3e
+  name: M RL1
+  pageRef: /lists/rl1
+  weight: 30
+- identifier: c1904eff-8a3b-4e06-99e3-cab095b69019
+  name: 'M p1 '
+  pageRef: /pages/p1
+  weight: 40
+- identifier: aae6cccf-cbaf-4eee-b052-43dafb104258
+  name: M p2
+  pageRef: /pages/p2
+  weight: 50
